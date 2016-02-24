@@ -5,7 +5,7 @@ def __after_init_iet_yocto():
                      'meta-fsl-arm',
                      'meta-openembedded/meta-oe',
                      'meta-openembedded/meta-ruby',
-                     'meta-networking',
+                     'meta-openembedded/meta-networking',
                      'meta-python',
                      'meta-reach',
                      'meta-iet',
