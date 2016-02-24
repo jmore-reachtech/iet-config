@@ -6,7 +6,7 @@ def __after_init_iet_yocto():
                      'meta-openembedded/meta-oe',
                      'meta-openembedded/meta-ruby',
                      'meta-openembedded/meta-networking',
-                     'meta-python',
+                     'meta-openembedded/meta-python',
                      'meta-reach',
                      'meta-iet',
                      'meta-qt5'
